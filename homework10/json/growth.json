@@ -1,0 +1,52 @@
+[
+    {
+        "name": "NVR Inc.",
+        "code": "NVR",
+        "growth": 1824.45
+    },
+    {
+        "name": "Alphabet A (ex Google)",
+        "code": "GOOGL",
+        "growth": 1144.4
+    },
+    {
+        "name": "Alphabet C (ex Google)",
+        "code": "GOOG",
+        "growth": 1141.71
+    },
+    {
+        "name": "AutoZone Inc.",
+        "code": "AZO",
+        "growth": 910.24
+    },
+    {
+        "name": "Mettler-Toledo International Inc.",
+        "code": "MTD",
+        "growth": 556.78
+    },
+    {
+        "name": "Chipotle Mexican Grill Inc.",
+        "code": "CMG",
+        "growth": 360.99
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "growth": 351.11
+    },
+    {
+        "name": "SVB Financial Group Shs",
+        "code": "SIVB",
+        "growth": 290.41
+    },
+    {
+        "name": "Intuit Inc.",
+        "code": "INTU",
+        "growth": 263.37
+    },
+    {
+        "name": "O Reilly Automotive Inc",
+        "code": "ORLY",
+        "growth": 253.66
+    }
+]

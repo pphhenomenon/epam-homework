@@ -1,0 +1,52 @@
+[
+    {
+        "name": "NVR Inc.",
+        "code": "NVR",
+        "price": 425230.78
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "price": 244210.18
+    },
+    {
+        "name": "Alphabet A (ex Google)",
+        "code": "GOOGL",
+        "price": 204713.26
+    },
+    {
+        "name": "Alphabet C (ex Google)",
+        "code": "GOOG",
+        "price": 204532.73
+    },
+    {
+        "name": "Booking Holdings Inc Registered Shs",
+        "code": "BKNG",
+        "price": 179290.33
+    },
+    {
+        "name": "AutoZone Inc.",
+        "code": "AZO",
+        "price": 151004.17
+    },
+    {
+        "name": "Chipotle Mexican Grill Inc.",
+        "code": "CMG",
+        "price": 118533.84
+    },
+    {
+        "name": "Mettler-Toledo International Inc.",
+        "code": "MTD",
+        "price": 117627.47
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "price": 80839.26
+    },
+    {
+        "name": "BlackRock Inc.",
+        "code": "BLK",
+        "price": 66290.54
+    }
+]
